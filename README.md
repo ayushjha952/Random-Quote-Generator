@@ -1,6 +1,6 @@
 # **Random-Quote-Generator**
 
-![Random Quote Generator](sample.jpeg)
+![Random Quote Generator](Sample.jpeg)
 
 ## **Introduction**
 
