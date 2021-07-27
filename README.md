@@ -1,6 +1,6 @@
 # **Random-Quote-Generator**
 
-![Random Quote Generator](./public/sample.png)
+![Random Quote Generator](sample.png)
 
 ## **Introduction**
 
